@@ -1,4 +1,9 @@
-.accordion:hover｛background-color:yellow;｝
+.accordion:hover{
+  background-color: yellow;
+}
+.accordion-a:hover{
+  background-color: yellow;
+}
 
 .menu-container {
   margin: 0;
